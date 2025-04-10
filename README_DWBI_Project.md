@@ -41,9 +41,9 @@ Students often feel overwhelmed during the job search process. This project leve
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
-(dashboard-preview.png)
-(dashboard-preview.png)
+![Dashboard Preview](Screenshot (78).png)
+(Screenshot (79).png)
+(Screenshot (80).png)
 
 
 ## 🤝 Collaborators
@@ -53,6 +53,10 @@ Students often feel overwhelmed during the job search process. This project leve
 
 ## 🌐 Live Demo
 
-View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_17442510647970/StudentHiringData?publish=yes)(https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_part2/EmployersRoleCollege)(https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_part3/AcademicHiringCorrelation).
+View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_17442510647970/StudentHiringData?publish=yes).
+
+[Part2](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_part2/EmployersRoleCollege).
+
+[Part3](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_part3/AcademicHiringCorrelation).
 
 
