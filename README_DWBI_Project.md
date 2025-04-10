@@ -41,9 +41,7 @@ Students often feel overwhelmed during the job search process. This project leve
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshot (78).png)
-(Screenshot (79).png)
-(Screenshot (80).png)
+![Dashboard Preview](https://github.com/atharvasathaye/Student-Career-dashboard/blob/91c3c41e5cc9c0b9aa71e677ab96618570cd970e/Screenshot%20(78).png)
 
 
 ## 🤝 Collaborators
