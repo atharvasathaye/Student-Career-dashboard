@@ -39,6 +39,13 @@ Students often feel overwhelmed during the job search process. This project leve
 - Tableau workbook (twbx)
 - Project report detailing methodology and outcomes
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+(dashboard-preview.png)
+(dashboard-preview.png)
+
+
 ## 🤝 Collaborators
 - Atharva Sathaye  
 - Sarthak Chandarana  
@@ -46,6 +53,6 @@ Students often feel overwhelmed during the job search process. This project leve
 
 ## 🌐 Live Demo
 
-View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_17442510647970/StudentHiringData?publish=yes).
+View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_17442510647970/StudentHiringData?publish=yes)(https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_part2/EmployersRoleCollege)(https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_part3/AcademicHiringCorrelation).
 
 
