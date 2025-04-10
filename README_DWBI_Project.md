@@ -46,5 +46,6 @@ Students often feel overwhelmed during the job search process. This project leve
 
 ## 🌐 Live Demo
 
-View the interactive dashboard on [Tableau Public]((https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_17442510647970/StudentHiringData?publish=yes)).
+View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/atharva.anil.sathaye/viz/DWBI_Final_Project_17442510647970/StudentHiringData?publish=yes).
+
 
